@@ -1,1 +1,8 @@
+/*Adding bootstrap min css*/
 @import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+#frm{
+    margin: 2em auto;
+    padding: 20px;
+    width: 450px;
+    border: solid dodgerblue;
+}
