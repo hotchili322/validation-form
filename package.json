@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hotchili322/validation-form/issues"
   },
-  "homepage": "https://github.com/hotchili322/validation-form#readme"
+  "homepage": "https://github.com/hotchili322/validation-form#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
 }
